@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 20 Apr, 2023, 8:17:21 PM
+    Author     : NEERAJ
+*/
+
+.back-image{
+    background: url(../img/doctorloginback.png) no-repeat center fixed;
+    z-index: -10;
+    height: full;
+}
